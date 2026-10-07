@@ -64,3 +64,22 @@ Zenodo datasets.
 ## Expected data structure
 
 After downloading the archived datasets, the files should be arranged so that the scripts can access them using the relative paths specified in the code.
+
+## Reproducibility
+All scripts use relative file paths based on here::here(). The repository should therefore be opened and run from its project root.
+A fixed random-number seed is used for Monte Carlo simulations to facilitate reproducibility.
+Methodological details, including source selection, interpolation and extrapolation procedures, elemental-concentration assumptions, conversion
+factors, and uncertainty propagation, are described in the Supplementary Methods of the associated publication.
+
+## Citation
+If using this code or the associated datasets, please cite the associated
+publication:
+Peñuelas, J., Coello, F., de la Casa, J., Nogué, S., Fernandez-Martinez, M., Ogaya, R., & Sardans, J. (in press). Anthropogenic effects on elementomesacross organisms, ecosystems, and the biosphere (in press). Global Change Biology.
+
+The archived datasets can additionally be cited using the Zenodo DOI:
+https://doi.org/10.5281/zenodo.23214154
+
+## Contact
+Fernando Coello
+CREAF
+f.coello@creaf.uab.cat
