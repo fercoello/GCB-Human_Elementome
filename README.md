@@ -50,7 +50,7 @@ compositions are standardized internally as mass fractions (**kg kg⁻¹**).
 The datasets supporting this workflow, including the datasets underlying Figure 3 of the associated publication, are archived on Zenodo:
 
 **Zenodo:**  
-(https://zenodo.org/uploads/23214154)
+https://zenodo.org/records/23214154
 
 The deposited materials include:
 
